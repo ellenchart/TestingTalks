@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c03ad5cc-ab54-49b8-8085-21a537c7c7eb" name="Changes" comment="56" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/react-app" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2iW7sT1Nkoje6oQuiCI0XlN4ADf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ellenhart/testing-talks-hub/react-app/e2e/src/common.env",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "npm.cucumber --profile dev.executor": "Run",
+    "npm.cucumber --profile regression.executor": "Run",
+    "npm.cucumber.executor": "Run",
+    "npm.cucumber:dev.executor": "Run",
+    "npm.cucumber:regression.executor": "Run",
+    "npm.cucumber:smoke.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/ellenhart/testing-talks-hub/react-app/e2e/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react-app/e2e/src/common.env" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react-app/e2e/src/support" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.cucumber --profile dev">
+    <configuration name="cucumber --profile dev" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/react-app/e2e/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="cucumber" />
+      </scripts>
+      <arguments value="--profile dev" />
+      <node-interpreter value="project" />
+      <package-manager value="yarn" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="cucumber --profile regression" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/react-app/e2e/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="cucumber" />
+      </scripts>
+      <arguments value="--profile regression" />
+      <node-interpreter value="project" />
+      <package-manager value="yarn" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="cucumber --profile smokes" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/react-app/e2e/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="cucumber" />
+      </scripts>
+      <arguments value="--profile smokes" />
+      <node-interpreter value="project" />
+      <package-manager value="yarn" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.cucumber --profile dev" />
+      <item itemvalue="npm.cucumber --profile smokes" />
+      <item itemvalue="npm.cucumber --profile regression" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c03ad5cc-ab54-49b8-8085-21a537c7c7eb" name="Changes" comment="" />
+      <created>1719594686473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719594686473</updated>
+      <workItem from="1719594687516" duration="37119000" />
+      <workItem from="1720036944995" duration="1794000" />
+      <workItem from="1720050862660" duration="28561000" />
+    </task>
+    <task id="LOCAL-00001" summary="56">
+      <option name="closed" value="true" />
+      <created>1721309078223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721309078223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="56" />
+    <option name="LAST_COMMIT_MESSAGE" value="56" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/react-app/e2e/src/step-definitions/assertions/verify-element-value.ts</url>
+          <line>39</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
