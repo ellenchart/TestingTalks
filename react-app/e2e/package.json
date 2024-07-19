@@ -1,0 +1,35 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "precucumber": "rimraf reports && mkdir reports && echo {} > reports/report.json",
+    "transpile": "rimraf dist && babel --extensions .ts --out-dir dist src",
+    "cucumber-compile": "yarn transpile && cucumber-js",
+    "cucumber": "COMMON_CONFIG_FILE=env/common.env yarn cucumber-compile",
+    "postcucumber": "COMMON_CONFIG_FILE=env/common.env ts-node ./src/reporter/cucumber-report.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/node": "^7.24.7",
+    "@babel/plugin-transform-runtime": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@babel/preset-typescript": "^7.24.7",
+    "@babel/register": "^7.24.6",
+    "@babel/runtime": "^7.24.7",
+    "@cucumber/cucumber": "^8.0.0-rc.1",
+    "@playwright/test": "^1.16.1",
+    "dotenv": "^10.0.0",
+    "playwright": "^1.16.1",
+    "rimraf": "^5.0.7",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "cucumber-html-reporter": "^5.5.0",
+    "ts-node": "^10.9.2"
+  }
+}
